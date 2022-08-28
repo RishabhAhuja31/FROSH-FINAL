@@ -221,7 +221,7 @@ class _MentorState extends State<Mentor> {
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(10),
                             child: Image(
-                            image: AssetImage(model.imgAddress),
+                            image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
 
 
@@ -314,7 +314,7 @@ class _MentorState extends State<Mentor> {
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(10),
                            child: Image(
-                            image: AssetImage(model.imgAddress),
+                            image: NetworkImage(model.imgAddress),
                             fit: BoxFit.fill,
                           ),
                           ),
@@ -404,7 +404,7 @@ class _MentorState extends State<Mentor> {
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(10),
                           child: Image(
-                            image: AssetImage(model.imgAddress),
+                            image: NetworkImage(model.imgAddress),
                             fit: BoxFit.fill,
                           ),
                         ),
@@ -494,7 +494,7 @@ class _MentorState extends State<Mentor> {
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(10),
                           child: Image(
-                            image: AssetImage(model.imgAddress),
+                            image: NetworkImage(model.imgAddress),
                             fit: BoxFit.fill,
                           ),
                         ),
@@ -583,7 +583,7 @@ class _MentorState extends State<Mentor> {
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(10),
                           child: Image(
-                            image: AssetImage(model.imgAddress),
+                            image: NetworkImage(model.imgAddress),
                             fit: BoxFit.fill,
                           ),
                         ),
@@ -672,7 +672,7 @@ class _MentorState extends State<Mentor> {
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(10),
                           child: Image(
-                            image: AssetImage(model.imgAddress),
+                            image: NetworkImage(model.imgAddress),
                             fit: BoxFit.fill,
                           ),
                         ),
@@ -761,7 +761,7 @@ class _MentorState extends State<Mentor> {
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(10),
                           child: Image(
-                            image: AssetImage(model.imgAddress),
+                            image: NetworkImage(model.imgAddress),
                             fit: BoxFit.fill,
                           ),
                         ),
@@ -850,7 +850,7 @@ class _MentorState extends State<Mentor> {
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(10),
                           child: Image(
-                            image: AssetImage(model.imgAddress),
+                            image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                           ),
                         ),
@@ -938,7 +938,7 @@ class _MentorState extends State<Mentor> {
                             child: ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -1025,7 +1025,7 @@ class _MentorState extends State<Mentor> {
                             child: ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -1112,7 +1112,7 @@ class _MentorState extends State<Mentor> {
                             child: ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -1200,7 +1200,7 @@ class _MentorState extends State<Mentor> {
                             child: ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -1288,7 +1288,7 @@ class _MentorState extends State<Mentor> {
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
 
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
 
 
@@ -1380,7 +1380,7 @@ class _MentorState extends State<Mentor> {
                             child:ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -1471,7 +1471,7 @@ class _MentorState extends State<Mentor> {
                             child: Image(
                               height: 100,
                               width: width/5,
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -1560,7 +1560,7 @@ class _MentorState extends State<Mentor> {
                             child: ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -1649,7 +1649,7 @@ class _MentorState extends State<Mentor> {
                             child:ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -1737,7 +1737,7 @@ class _MentorState extends State<Mentor> {
                             child:ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -1825,7 +1825,7 @@ class _MentorState extends State<Mentor> {
                             child:ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -1913,7 +1913,7 @@ class _MentorState extends State<Mentor> {
                             child:ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -2001,7 +2001,7 @@ class _MentorState extends State<Mentor> {
                             child:ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -2089,7 +2089,7 @@ class _MentorState extends State<Mentor> {
                             child:ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -2177,7 +2177,7 @@ class _MentorState extends State<Mentor> {
                             child:ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -2266,7 +2266,7 @@ class _MentorState extends State<Mentor> {
                             child:ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -2354,7 +2354,7 @@ class _MentorState extends State<Mentor> {
                             child:ClipRRect(
                               borderRadius: BorderRadius.circular(10),
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -2443,7 +2443,7 @@ class _MentorState extends State<Mentor> {
                               borderRadius: BorderRadius.circular(10),
 
                             child: Image(
-                              image: AssetImage(model.imgAddress),
+                              image: NetworkImage(model.imgAddress),
                               fit: BoxFit.fill,
 
                             ),
