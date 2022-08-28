@@ -107,7 +107,7 @@ class _FacultyState extends State<Faculty> {
                       color: Colors.white,
                       borderRadius: BorderRadius.circular(30),
                       image: DecorationImage(
-                          image: AssetImage(
+                          image: NetworkImage(
                             data.imageName,
                           ),
                           fit: BoxFit.cover),
