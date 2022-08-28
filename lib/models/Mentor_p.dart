@@ -127,7 +127,7 @@ final List<Models> snk5Models = [
     name: "Arushi",
     model: "Dhingra",
     branch: "COPC",
-    imgAddress: " ",
+    imgAddress: "https://i.imgur.com/4UrkTKV.jpg",
     modelColor: Color(0xffDE0106),
   ),
 
