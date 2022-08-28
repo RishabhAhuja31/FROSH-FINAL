@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
+import 'package:meditation/AIESEC_page.dart';
 
 import 'package:meditation/detail_page.dart';
 import 'package:meditation/girlshostel_page.dart';
@@ -30,11 +31,6 @@ class _NontechsocPageState extends State<NontechsocPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Color(0xff121421),
-      appBar: AppBar(
-          title: Image.asset('assets/images/tietlogo3.png'),
-          backgroundColor: Color(0xff1C2031),
-          shadowColor: Colors.black,
-        ) ,
       body: SafeArea(
         child: ListView(
           physics: BouncingScrollPhysics(),
@@ -219,13 +215,9 @@ class _NontechsocPageState extends State<NontechsocPage> {
                   InkWell(
                     child: DiscoverCard1(
 
-                      //  onTap: ()async{
-                      //    final Uri _url = Uri.parse('https://youtu.be/T0GaMCVaJlo');
-                      //
-                      //   if (!await launchUrl(_url)) {
-                      //     throw 'Could not launch $_url';
-                      //    }
-                      // },
+                      onTap:() {
+                        Navigator.push(context, MaterialPageRoute(builder:(context)=>AiesecPage()));
+                      },
                       title: "AIESEC",
                       subtitle: "EStablished 1980",
                       gradientStartColor: Color(0xffFC67A7),
