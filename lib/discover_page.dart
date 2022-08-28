@@ -137,7 +137,7 @@ class _DiscoverPageState extends State<DiscoverPage> {
                   DiscoverCard(
                     tag: "sleepMeditation",
                     onTap: onSleepMeditationTapped,
-                    title: "Latest News",
+                    title: "",
 
 
                   ),
