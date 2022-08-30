@@ -27,7 +27,7 @@ List<DataModel> dataList = [
   DataModel("Shubham Gupta", "https://i.imgur.com/hAFRmZn.jpg", "COE"),
   DataModel("Siddhi Aggarwal", "https://i.imgur.com/FLiviLp.jpg", "COE"),
   DataModel("Sudhit Soni", "https://i.imgur.com/jpJi4vn.jpg", "COE"),
-  DataModel("Sudiksha Raheja", "https://i.imgur.com/jRktB1Z.jpg", "COE"),
+  DataModel("Sudiksha Raheja", "https://i.imgur.com/UvizS4b.jpg", "COE"),
   DataModel("Vishal Singh", "https://i.imgur.com/hAFRmZn.jpg", "COE"),
 
 ];
